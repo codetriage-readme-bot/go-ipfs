@@ -527,6 +527,18 @@
       "hash": "QmWo8jYc19ppG7YoTsrr2kEtLRbARTJho5oNXFTR6B7Peq",
       "name": "go-ipfs-chunker",
       "version": "0.0.2"
+    },
+    {
+      "author": "hsanjuan",
+      "hash": "QmRJVNatYJwTAHgdSM1Xef9QVQ1Ch3XHdmcrykjP5Y4soL",
+      "name": "go-ipfs-delay",
+      "version": "0.0.1"
+    },
+    {
+      "author": "hector",
+      "hash": "QmRMGdC6HKdLsPDABL9aXPDidrpmEHzJqFWSvshkbn9Hj8",
+      "name": "go-ipfs-flags",
+      "version": "0.0.1"
     }
   ],
   "gxVersion": "0.10.0",
